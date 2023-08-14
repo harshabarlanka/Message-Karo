@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "188376871718",
+    "project_id": "message-kaaro",
+    "storage_bucket": "message-kaaro.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:188376871718:android:dbd48c7941caec9898c7e7",
+        "android_client_info": {
+          "package_name": "com.example.appdev"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "188376871718-j3etefjg9ot39k2ckeqfc8hfmft2b3bm.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.appdev",
+            "certificate_hash": "f4a75dce0aaefcd9420f66d92ed37c48b2168208"
+          }
+        },
+        {
+          "client_id": "188376871718-jnra64hmd29l1s6udsmit4m6i58dk2fd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA8BBXIAId21MxEmYMMoQETSMmd29wif5s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "188376871718-jnra64hmd29l1s6udsmit4m6i58dk2fd.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "188376871718-2cck5mjhfj1g8ro2pktfpdkjpui7kdlr.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.appdev.RunnerTests"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
